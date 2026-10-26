@@ -7,6 +7,7 @@ A lightweight **Retrieval-Augmented Generation (RAG)** assistant built for **Inn
 The chatbot answers student questions regarding registration, eligibility, schedule, prizes, judging criteria, and event policies strictly using the official markdown event rulebook (`event_rulebook.md`).
 
 ---
+https://techeventchatbot.streamlit.app/
 
 ## 🚀 Features
 
