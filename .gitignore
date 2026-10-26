@@ -1,0 +1,32 @@
+# Environment variables & API keys
+.env
+.env.local
+*.env
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Pytest & testing artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Sentence Transformers / HuggingFace model cache (if downloaded locally)
+models/
+.cache/
+
+# Streamlit config & cache
+.streamlit/secrets.toml
+
+# OS artifacts
+.DS_Store
+Thumbs.db
